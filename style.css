@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('magiccc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.poop {
+    height: 30%;
+    width: 20%;
+}
+
+@font-face {
+    font-family: 'magic';
+    src: url('MagicFunk-qZ641.ttf');
+}
+
+.magic {
+    font-family: 'magic';
+}
+
+.pink {
+    color: #ff10f0;
+}
+
+.title {
+    padding: 2%;
+    color: #FF10F0;
+    font-size: 7vw;
+}
+
+.ques {
+    color: #FF10F0;
+    font-size: 4vw;
+}
+
+.btn {
+    color: whitesmoke;
+    background-color: #FF10F0;
+}
+
+.btn:hover {
+    color: #ff10f0;
+    background-color: whitesmoke;
+}
