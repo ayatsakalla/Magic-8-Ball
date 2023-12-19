@@ -60,7 +60,7 @@ function shakeMagic8Ball() {
         break;
 
         case 7:
-        answer = "Possibly no";
+        answer = "Possibly not";
         image = "oop.jpg";
         color = "text-warning";
         break;
